@@ -1,5 +1,5 @@
 {
-    "name": "KIWI Token",
+    "name": "KIWI PoW Token",
     "symbol": "KIWI",
     "type": "ERC20",
     "decimals": 8,

@@ -1,0 +1,11 @@
+{
+    "name": "SwapMatic",
+    "symbol": "SWAM",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0x368306eb52c8313fd398418c8220ddd560940e68",
+    "status": "active",
+    "id": "0x368306eb52c8313fd398418c8220ddd560940e68"
+}
